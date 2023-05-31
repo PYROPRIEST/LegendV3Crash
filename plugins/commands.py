@@ -181,7 +181,7 @@ async def start(client, message):
                          
                           InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("ʜᴇʟᴩ", url=thttp://t.me/Ak_assistantBot")
+                          InlineKeyboardButton("ʜᴇʟᴩ", url="https://t.me/Ak_assistantBot")
                          ]
                         ]
                     )
