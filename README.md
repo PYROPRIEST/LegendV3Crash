@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/a9344af3ab418b0f653a4.jpg" alt="Tsunade-auto-filter Logo">
+  <img src="https://telegra.ph/file/41e96ca5b97582c48a74b.jpg" alt="Tsunade-auto-filter Logo">
 </p>
 <h1 align="center">
   𝑻𝒔𝒖𝒏𝒂𝒅𝒆-𝒂𝒖𝒕𝒐-𝒇𝒊𝒍𝒕𝒆𝒓 𝒃𝒐𝒕
