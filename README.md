@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://telegra.ph/file/defb4621c197708b786ff.jpg" alt="Tsunade-auto-filter Logo">
 </p>
 <h1 align="center">
   𝐔𝐫𝐯𝐚𝐬𝐡𝐢 𝐑𝐚𝐮𝐭𝐞𝐥𝐚
